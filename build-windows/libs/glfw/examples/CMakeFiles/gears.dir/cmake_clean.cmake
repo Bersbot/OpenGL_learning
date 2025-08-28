@@ -1,0 +1,15 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gears.dir/__/deps/glad.c.obj"
+  "CMakeFiles/gears.dir/__/deps/glad.c.obj.d"
+  "CMakeFiles/gears.dir/gears.c.obj"
+  "CMakeFiles/gears.dir/gears.c.obj.d"
+  "CMakeFiles/gears.dir/glfw.rc.res"
+  "gears.exe"
+  "gears.pdb"
+  "libgears.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C RC)
+  include(CMakeFiles/gears.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

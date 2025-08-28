@@ -1,0 +1,1 @@
+-I"/home/bersbot/proj/game_opengl-master/libs/glfw/include" -I"/home/bersbot/proj/game_opengl-master/libs/glfw/src" -I"/home/bersbot/proj/game_opengl-master/build-windows/libs/glfw/src"

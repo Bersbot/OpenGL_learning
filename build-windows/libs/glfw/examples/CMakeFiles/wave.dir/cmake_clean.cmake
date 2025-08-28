@@ -1,0 +1,15 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/wave.dir/__/deps/glad.c.obj"
+  "CMakeFiles/wave.dir/__/deps/glad.c.obj.d"
+  "CMakeFiles/wave.dir/glfw.rc.res"
+  "CMakeFiles/wave.dir/wave.c.obj"
+  "CMakeFiles/wave.dir/wave.c.obj.d"
+  "libwave.dll.a"
+  "wave.exe"
+  "wave.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C RC)
+  include(CMakeFiles/wave.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
