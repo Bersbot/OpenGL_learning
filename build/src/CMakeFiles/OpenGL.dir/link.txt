@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OpenGL.dir/main.cpp.o -o OpenGL  ../libs/glfw/src/libglfw3.a ../libs/glad/libglad.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl /usr/lib/x86_64-linux-gnu/libX11.so 
